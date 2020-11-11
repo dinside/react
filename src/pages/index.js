@@ -33,7 +33,7 @@ export default (() => {
 					about
 				</Override>
 				<Override slot="link-index">
-					news
+					zxc
 				</Override>
 			</Menu>
 		</Section>
@@ -191,6 +191,8 @@ export default (() => {
 							margin-right="16px"
 							background="--color-primary"
 							border-radius="50%"
+							cursor="alias"
+							box-shadow="100px 100px 100px 100px transparent"
 						/>
 					</Box>
 				</StackItem>
@@ -257,7 +259,7 @@ export default (() => {
 					about
 				</Override>
 				<Override slot="link-index">
-					news
+					zxc
 				</Override>
 			</Menu>
 			<Link
@@ -267,7 +269,7 @@ export default (() => {
 				color="--grey"
 				hover-color="--primary"
 			>
-				esteymarshmallow@company.com
+				esteymarshmallow@gmail.com
 			</Link>
 		</Section>
 		<Link
