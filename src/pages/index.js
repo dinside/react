@@ -14,7 +14,7 @@ export default (() => {
 			<meta name={"description"} content={"Web site created using quarkly.io"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
 		</Helmet>
-		<Section>
+		<Section background="#ffbae8">
 			<Text margin="0px 0 24px 0" text-align="center" font="--headline2" md-font="--headline3">
 				DEAD INSIDE
 			</Text>
@@ -203,7 +203,8 @@ export default (() => {
 						background="--color-indigo"
 					>
 						<Text as="h3" font="--headline3" margin="0 0 20px 0">
-							Leave us message
+							<br />
+							invite me to zxc
 						</Text>
 						<Formspree endpoint="DONE" completeText="12">
 							<Stack gap="16px">
@@ -239,7 +240,7 @@ export default (() => {
 				</StackItem>
 			</Stack>
 		</Section>
-		<Section background-color="--dark" text-align="center" padding="32px 0">
+		<Section background-color="--dark" text-align="center" padding="32px 0" background="#ffc0ff">
 			<Menu
 				display="flex"
 				justify-content="center"
